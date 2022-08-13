@@ -1,0 +1,52 @@
+C:\Users\Omer\env\Scripts\python.exe "I:/Working/Working Omar/Python/Git My Project/main.py" 
+2022-08-13 11:20:25.568285: E tensorflow/stream_executor/cuda/cuda_driver.cc:271] failed call to cuInit: CUDA_ERROR_UNKNOWN: unknown error
+2022-08-13 11:20:25.572571: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:169] retrieving CUDA diagnostic information for host: DESKTOP-5QOESR6
+2022-08-13 11:20:25.572926: I tensorflow/stream_executor/cuda/cuda_diagnostics.cc:176] hostname: DESKTOP-5QOESR6
+2022-08-13 11:20:25.573447: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
+Found 2264 images belonging to 2 classes.
+Found 1112 images belonging to 2 classes.
+Epoch 1/20
+70/70 [==============================] - 34s 480ms/step - loss: 0.4402 - accuracy: 0.8338 - val_loss: 0.1274 - val_accuracy: 0.9874
+Epoch 2/20
+70/70 [==============================] - 31s 440ms/step - loss: 0.1907 - accuracy: 0.9256 - val_loss: 0.0415 - val_accuracy: 0.9982
+Epoch 3/20
+70/70 [==============================] - 31s 444ms/step - loss: 0.1125 - accuracy: 0.9583 - val_loss: 0.0234 - val_accuracy: 1.0000
+Epoch 4/20
+70/70 [==============================] - 31s 438ms/step - loss: 0.0810 - accuracy: 0.9673 - val_loss: 0.0210 - val_accuracy: 0.9991
+Epoch 5/20
+70/70 [==============================] - 31s 443ms/step - loss: 0.0638 - accuracy: 0.9758 - val_loss: 0.0113 - val_accuracy: 0.9991
+Epoch 6/20
+70/70 [==============================] - 31s 445ms/step - loss: 0.0577 - accuracy: 0.9803 - val_loss: 0.0056 - val_accuracy: 1.0000
+Epoch 7/20
+70/70 [==============================] - 31s 440ms/step - loss: 0.0394 - accuracy: 0.9866 - val_loss: 0.0104 - val_accuracy: 0.9973
+Epoch 8/20
+70/70 [==============================] - 31s 439ms/step - loss: 0.0307 - accuracy: 0.9879 - val_loss: 0.0019 - val_accuracy: 1.0000
+Epoch 9/20
+70/70 [==============================] - 31s 441ms/step - loss: 0.0187 - accuracy: 0.9955 - val_loss: 0.0121 - val_accuracy: 0.9964
+Epoch 10/20
+70/70 [==============================] - 31s 443ms/step - loss: 0.0161 - accuracy: 0.9933 - val_loss: 0.0046 - val_accuracy: 0.9982
+Epoch 11/20
+70/70 [==============================] - 31s 447ms/step - loss: 0.0103 - accuracy: 0.9973 - val_loss: 0.0059 - val_accuracy: 0.9982
+Epoch 12/20
+70/70 [==============================] - 30s 431ms/step - loss: 0.0151 - accuracy: 0.9946 - val_loss: 0.0051 - val_accuracy: 0.9982
+Epoch 13/20
+70/70 [==============================] - 30s 435ms/step - loss: 0.0134 - accuracy: 0.9951 - val_loss: 0.0035 - val_accuracy: 0.9991
+Epoch 14/20
+70/70 [==============================] - 30s 434ms/step - loss: 0.0162 - accuracy: 0.9937 - val_loss: 0.0071 - val_accuracy: 0.9973
+Epoch 15/20
+70/70 [==============================] - 30s 423ms/step - loss: 0.0122 - accuracy: 0.9946 - val_loss: 0.0020 - val_accuracy: 0.9991
+Epoch 16/20
+70/70 [==============================] - 30s 427ms/step - loss: 0.0135 - accuracy: 0.9951 - val_loss: 0.0040 - val_accuracy: 1.0000
+Epoch 17/20
+70/70 [==============================] - 31s 441ms/step - loss: 0.0038 - accuracy: 0.9991 - val_loss: 9.3104e-04 - val_accuracy: 1.0000
+Epoch 18/20
+70/70 [==============================] - 30s 437ms/step - loss: 0.0012 - accuracy: 1.0000 - val_loss: 9.8851e-04 - val_accuracy: 1.0000
+Epoch 19/20
+70/70 [==============================] - 31s 438ms/step - loss: 0.0019 - accuracy: 1.0000 - val_loss: 0.0038 - val_accuracy: 0.9991
+Epoch 20/20
+70/70 [==============================] - 31s 441ms/step - loss: 0.0012 - accuracy: 1.0000 - val_loss: 0.0014 - val_accuracy: 1.0000
+Execution Time: 616.387326002121 Seconds
+Save Success
+
+Process finished with exit code 0
